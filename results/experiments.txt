@@ -1,0 +1,423 @@
+# We are testing with GPT-2 774M model version.  The goal is to compare GPT-2 with GPT-3.
+
+!python3 src/interactive_conditional_samples.py --model_name='774M'  --nsamples=2 --top_k=100 --temperature=1
+
+
+Prompt: WHAT a pretty horse! mamma. How I should like a horse! Let me have one, mamma, will you?
+======================================== SAMPLE 1 ========================================
+
+
+Oh, hello! I'm very pleased, Mimi. Come have a chariot ride with me into the summer.
+
+Oh, don't embarrass me. I am not fond of horses at all.
+
+Oh my darling. Let me call you "my little flower."
+
+Oh my darling. Our love will bloom into greatness.
+
+Oh mamma, mamma, and mamma! Oh, oh, oh, oh—
+
+Oh, oh—Oh, my darling! Now dine and drink.
+
+Who gives up sweets not for good food? I give sweets all along the table to my sweet Mimi.
+
+My darling! Oh, mamma!
+
+Oh, my fair angel! Let my sweet Mimi make you a beautiful bouquet with flowers. Say a fond goodbye to our sweet princess—Amber, you are lucky, for Amber is such an enchanting princess. Say that farewell, my cherubs—Come, we can share it together with, with our grandees, and all of them shall sing our joy.
+
+Oh mamma, mamma, and me! Oh, my sweet little flower! Let me call you my "little flower"—Yes, a very charming little flower. Mimi's the good daughter: Our true sweet Mimi can't be found at home, and when I came home, the good mamma, mamma, and me, we could hardly open our mouths! The poor mamma! She won't be able to taste this pleasant meal my darling! Let the poor mamma have it now.
+
+Oh, dear angel (?), Oh, dear mamma! Oh, dear mamma, and me! Oh, dear cherubs! Don't forget the merry merriment of our dear beloved, dear sweet Mimi!
+
+Oh, I'm really a little fond of sweets. Not for food. Yes, but for mamma! To-day, Mimi loves sweets really too much to miss a good dinner. We'll do it this evening, darling. Will you come with us and join us?
+
+Oh, oh! The poor mamma (?), The poor mamma, mamma, and us! Oh, come now!
+
+Let my sweet Mimi make a splendid bouquet. Say a few kind farewells to our dear princess, Amber, who's the most beautiful princess, and
+======================================== SAMPLE 2 ========================================
+ I need one of these pretty horses, you know. I'd like a horse! If you'd be so kind, I'd look to buy one. Thank you so much, mamma. You mean well, but I'm quite lacking.
+
+The Dialogue:
+
+Whining: Oh, that's lovely, mamma, yes, yes, I know that's very nice of you, but it's all very new to me, and I mean that sincerely. Is there a horse in the stable? Then just pick it up and take me on, and I'll be yours to ride. Very well. Come, I won't bite. I won't even sit up on it. I won't take it as a sign of disrespect. That is not in my nature. I won't do a thing to take care of your horse, mamma.
+
+How well you know yourself: Oh, that's excellent, mamma, yes, yes, I know that that's very pleasant of you to wish, but I've never considered myself any better than anyone else. Is there a horse in the stable? Then just pick it up and take me on, and I'll be yours to ride. Good. I will. Good. I will and, most deeply, I will. I'll be yours to ride. Very well. Come, I won't bite. I won't even sit up on it. I won't take it as a sign of disrespect. Good. I will and, most deeply, I will. I'll be yours to ride. Wonderful! Thank you, mamma. You mean well, but I'm quite lacking.
+
+The Dialogue: Nothing better that you can do. Thank you so much, mamma, you mean well, but I'm quite lacking.<|endoftext|>I could live without me!
+
+I'm starting to get old. I can't wait for Christmas, but I want to be there with my mom on Thanksgiving and Christmas together. This makes me sad.
+
+I got a $90 giftcard voucher for my local Best Buy store. I am happy to have it, and I promise to spend it wisely. I will also order more food for my friends and family. I plan to buy most of it on my own without their help and just go eat the rest on my own.
+
+My grocery bill increased by 3.4% over last year. My wife is also taking some maternity leave from her job. Since we
+================================================================================
+The day was far advanced before the party got home again, and by the time they had the necessary refreshment after their walk, the evening was closed in; and the time for the boys to prepare their lessons for the following day arrived.
+======================================== SAMPLE 1 ========================================
+Mr. Cole, the teacher, came into the classroom.
+
+"I would like to take a recess for a moment," he said.
+
+All the boys assembled into a line, and Mr. Cole walked slowly up to the front of the line.
+
+"I would like to take a recess," he said. — For he would be alone in the class all afternoon. But he had not told the boys that, nor that he would be alone.
+
+The boys knew nothing of the plan, and at first they did not appreciate his unspoken determination to have their lessons during lunch; they only looked at him with curiosity.
+
+But then, for a moment, they took the unexpected step of looking over those who had been grouped together and heeding his advice. Then they went quietly on their way until they were all quite quiet, and then the boys found that they could give much more satisfaction in a good-natured game of card-chase.
+
+"What is wrong with us," they asked him soon after he left the stage, "that we hate talking to each other about nothing?"
+
+"Well, you know what I mean," he replied, pointing at a young boy. "Those little boys, they always tell me, say they are going to say something very funny. And that if they say it, it must be something funny for the boys to hear. I tell them at first, with a smile upon my face, that they are only being silly about this, and then they go on to make me laugh to see that this I was quite prepared to do, or I would not be doing the trick, but I suppose you know I will laugh with them if they succeed in being silly themselves; and they do.
+
+"They just laugh and laugh over anything. They say I have got quite a new idea about their game, and this new idea they made themselves will be something for all your reading to-morrow."
+
+Mr. Cole began to change the subject.
+
+"The three of you had been listening to Uncle Thomas talk. You said that you had expected Uncle Thomas to say that the country would be quite prosperous again soon and they would be able to get up to no good without any sort of help. This was my advice to you all, and this is all it is, without asking what you think I ought to do with all this money I know to be in your pockets and on your tables; for I say I know that
+======================================== SAMPLE 2 ========================================
+"What day is it, friend?" asked Mrs. Ramsay, on seeing Jane's sister at her window.
+
+"It's three in the morning, dear, your highness," replied her sister. "I don't know how you can sleep."
+
+"How, my dear?" said Mrs. Lane, laughing. "Oh, Jane, it's only a dream, I assure you."
+
+The next morning, the boys were up at mid-day, and were getting ready for the day's lesson. Jane, in the meantime, has made a good breakfast of the beans and potatoes, and was so pretty and lively as to get the attention of the teacher, who put her into the class when the rest were lost in the other room. She made many mistakes in a few cases, and, after making the necessary apologies, the lessons concluded, and the boys went down in the morning; she being always to prepare a place for Jane when the girls were down at supper. There was a dinner of potatoes, which she had thrown over the fire, and it was all, till she was waked up by her brother's voice calling her up, "Jane, darling!"
+
+"Hello, dear, how are you?"
+
+"The peas are done this morning, darling—they're so tasty!"
+
+"There you are—you're up early—here's the peas, and here are the potatoes, ma'am—"
+
+"Oh, I had so much trouble in getting them done this morning... and had to hurry downstairs; it's just here, right here that I put them down a minute ago, dear Jane, I believe. What, that's it!" went on the old gentleman quite jauntily. "Who said so?"
+
+"Nobody, dear uncle."
+
+"Well—why don't you go and fetch them up, and then I'll bring them up, and then you'll have them ready... for supper. I'm out as brisk as ever. You'll be busy, I'm sure; it'll be no trouble for me to take you home when I'm gone, if you'll let me."
+
+"It's no trouble, dear uncle. What I mean is, you will come down, when I am gone, and take Mrs. Ramsay up and give her the potatoes, and the bacon and potatoes, and the ham, and go with her to take supper. There, you are sure you'll be willing?"
+================================================================================
+Jimmy was nearly eight years of age when these strange things happened to him. His full name was James Orchardson Sinclair Wilmot, and he had been at Miss Lawson's small school at Ramsgate since he was six.
+======================================== SAMPLE 1 ========================================
+ During the summer months of 1884, he spent many hours in the cellar of the house. Occasionally he would go up to watch the little dog, who used to pull the bellows that made the noise that made the bellows spin. He was always attracted to the sound of the bellows, and he would stand watching at a distance beneath the casket, gazing at the dog. When the bellows stopped he would turn to the other end of the cellar, and wait. He could hear the bellows rattling and the dog turning at one end of the cellar. The girl who kept the bellows had evidently been out and about most of the day and night, and might have noticed him, for she saw him standing in the cellar. John Wilmot came in contact with Mary's body the next morning. He was at first very feeble, his legs and arms having been paralyzed, and his speech a halting imitation. But he soon recovered — he was able to answer the question, "Where is the doll of the dead girl which I was looking over?" Later, when he became strong, he was able to speak and form correct sentences. He seemed to trust Mary's ghost, and he often put his hand in the casket for a moment, and noticed that she came out of it and went back into the old casket. He said she was a little bit prettier and gayer than the doll he gave to the other girl. The girl's name was Susan, and she lived at Ramsgate. The neighbors from the time of the death of John Wilmot seemed not entirely puzzled at, the strange phenomenon, but some called forth strange, almost scientific, reports from the neighbours a few days after the first witnesses. Dr. A. H. White and Mrs. J. C. Linton came down to talk over the matter with Mrs. Wilmot, who had confessed her son and daughter's deaths without any difficulty to the doctors. The girl's lips were swollen, and her hair fell about her shoulders, but there was no permanent change in her countenance, and no sign of any change in her mind. Dr. White asked her to turn to him in the corner upstairs, and when she did this a voice, a deep, low, and tremulous one, came into the room. She told the doctor that she had seen things but that it was in a dream. "You don't suppose there is a kind of mind in the other world that comes into the world, and puts on a mask and
+======================================== SAMPLE 2 ========================================
+ But from the age of seven, he had discovered that he was completely and deliberately unable to remember almost anything about anything.
+
+It all started one evening when his mother had just given him and his sister her presents — fruit baskets from the gardens, a few old clothes from their grandmother — and as they stared at the basket, they noticed an odd glow coming from somewhere in the basket. She couldn't get to the bottom of it (there wasn't enough space) so she stared in that direction for quite a while. It was only when he was seven that she remembered that the glow must have been light, or rather it was just a diffuse orange light, not a flame like cigarettes or a star.
+
+He was very disturbed by this revelation. He used to think that the orange light was a sign, a miracle, that his father, who was an electrical engineer, had invented and patented a new kind of light bulb, which emitted white light, green light, and maybe blue light, depending on your preference! He found it shocking when, at the beginning of his sixth year, he woke up in the morning with the hangover of a lifetime. Of course, no one had told him what had really happened the previous night!
+
+He began to notice that the glow in his basket (once he had recognized it as a light) appeared randomly in other baskets, sometimes with a sparkle. Each time, he found themselves staring at the opposite end of the basket rather than to the centre, as they would do normally. By this time, he knew one or two other children from his class who were born with such a disability. He remembers now that these children were two years older than him — and were all the same age as himself at the time of the incident.
+
+The feeling of confusion and shame, accompanied by inexplicable sensations of warm dampness and pain throughout his body, suddenly reached a peak at the weekend. He was very embarrassed about it, and tried to hide it from his parents, who were so startled by this experience that they ran into the house blindsided by his cries, pleading with him not to "put us back in the school at the age of seven". This prompted my father, who had been working on the local radio station, to speak out about what he had witnessed. In an hour, the whole house was filled with reports of similar inexplicable lights, and the local press was reporting that there was a rash of cases of people wandering about the countryside armed only with torches. By this time,
+================================================================================
+Nelly Grey was a little English girl who had never been in England. She was born in China, and went with her father and mother to live in the British Legation compound in Peking when she was only three years old.
+======================================== SAMPLE 1 ========================================
+ As an escape, she was smuggled into London, to hide out at an orphanage.
+
+As an adult, she made her way to a job working for the CIA in Miami. She was assigned to the Office of Intelligence on Cuba, a clandestine CIA branch with jurisdiction over the communist-infested island.
+
+Nelly began to spy on her superiors and even began trying to convince other spies to defect. She knew she could easily end up a target. Nelly was, understandably, cautious, so she remained silent about her spy activities.
+
+By 1957, when she arrived in South America, Nelly had grown to admire the Cuban mystique. Her friend and former co-partner, Howard Hughes, loved Cuba. And after her first visit, she was impressed enough to arrange for her to move in with Hughes, hoping she could see things from his perspective. Hughes took Nelly into his house for the first time, and he showed her around Havana.
+
+Nelly stayed on as the new executive assistant to the head of Cuba's intelligence service, Jose Martí, in 1957, and that same year, Cuba sent agents into Nicaragua's coastal provinces. Her cover was thin, however. She quickly ran into trouble. In all, the Cuban Ambassador, Oscar J. Castellanos, had to pull out of a plot to kidnap her in a plot to arrest her for espionage.
+
+Hughes had to move her to a foreign location, her duties in South America taking on a new, more dangerous role. But his wife, Georgiana, was an advocate of Cuba and an important source for sensitive information that kept the Agency on top of the situation. She had plenty of encouragement to keep her mouth shut.
+
+She also worked with Howard Hughes, and a short, sweet romance took place. And Hughes gave her an apartment in his New Hyde Park mansion, complete with swimming pool, gym, and living room. (A friend of Nelly's, David Wilcox, recalled, "I remember talking about it to him before meeting John Lindsay. I said, 'What would happen if you wanted to stay with me and he'd say no?' ")
+
+Nelly was later taken hostage and is now living in Florida, where her parents moved to after her father was gone. Her husband, Howard Hughes, was a close friend of Alan Colmes, who took over as the host for Hughes' podcast. (Hughes' son, Richard, wrote in an e-mail, "My dad
+======================================== SAMPLE 2 ========================================
+ Though the British Legation was a distant and expensive place to live, it did little to stifle Nelly's adventurous and intelligent sense of adventure. She had been raised for her entire life under the strict care of a mad, spoiled, and egotistical Chinese "Master" in a compound so vast and comfortable that he had had a villa built in addition to his own house. The man had been allowed to live in the compound with Nelly whenever possible.
+
+As everyone in China knew about Nelly, that mad master, she had no idea what he wanted, or even what his entire power base looked like. She herself had once asked the man whether he was a dictator or a dictator's agent. He had answered that he would explain any further questions to her at his leisure without ever leaving the compound. Nelly had been given a wide berth when she entered that compound when she was a boy, afraid to go near its windows.
+
+Now, with her mother having long assumed all of Nelly's responsibilities and the man no longer in Peking, she had to leave China for no longer than five days at a time. There were several places in China where a girl could live without being found out by either her parents or the man. As a result she was put up in an orphanage in North American Samoa with her new mother and two sets of sisters.
+
+Life there to a certain extent was more easy than living half a world away from her father. Nelly had good friends of her own. She was well read and well treated. She enjoyed conversation and dancing at home, singing with her friends, and taking up the game of soccer in which the two sets of sisters excelled. She was even encouraged, almost a little frightened, by a number of her new friends to try and escape life in the British Legation.
+
+Yet, all this success was not to last.
+
+During her years in Samoa she met and made friends with a number of very strange people who took advantage of the fact that neither the British nor the Chinese had attempted to close down any of the colonies of which they were the beneficiaries or inhabitants.
+
+One of them was a Japanese named Tamehara Sakamoto. He was a very cunning man -- a very cunning man, in fact, as his own father reminded her many of those years ago when they were still children. The little girl named Nelly had apparently been very fond of Sakamoto, and this apparently began to set off problems up and down
+================================================================================
+"Ah, no more loud clickety-clacks," he said. "Do I really need such a noisy best friend?" he wondered.
+======================================== SAMPLE 1 ========================================
+"Are you alright?" his Aunt Rose asked. She had her arm around Harry's shoulders firmly.
+
+"Better," he said, shaking his head up. "Was it something I did or something I said?"
+
+"Harry!" one of the other girls said. "You know how to handle yourself around your bullies. You just tell them it's being on hormones."
+
+Hedwig hopped down from her perch at the table and flew over to them.
+
+"There. Now I'm more popular than I thought," Harry told her warily.
+
+"Well, you're lucky, Harry," said his Aunt Rose.
+
+"All credit to him. Just a bit scary at times."
+
+"What kind of scary?"
+
+"Like Harry. What with the muggle stuff and all..."
+
+"It's bad enough that you have to deal with them," Rose said. "Well, to make sure Miss Lupin and those other freaks don't have an opportunity to show off to Miss Granger."
+
+"Um, thank you," Harry said.
+
+"There is, of course, the possibility that Miss Granger could do something that might make Harry regret so much before he even gets his Hogwarts letter," explained Harry's Aunt Rose.
+
+"And how can I ever thank her?" Harry asked, nodding.
+
+"There are five categories of people that only a single person can give up their own personal best friend to," Rose said. "The one exception is a friend you enjoy spending time with. By spending time with someone who is able to help you through life's toughest moments, you are being helped by that person, but it's not as simple as just handing over your companion without any back up."
+
+There was a prolonged silence on the conversation until Rose turned to Harry. "I don't want her to be bad," he said. "I don't want to be like Malfoy."
+
+Her worried blue eyes looked at him and the smile on his face. "Very well," she said calmly. "I would hope so."
+
+Harry stared at her for a moment, then shook his head and smiled at his Aunt Rose. After taking a sniff of the food and a taste of the toast, he got up and began preparing.
+
+"Can I have one piece of toast with a glass of water?" Rose asked.
+
+"Yes of course," Harry said so patiently that she almost paused to say anything
+======================================== SAMPLE 2 ========================================
+
+But if you were to ask him if now was the right time, he had no answer.
+
+The moment the word "big budget" or "big action" was mentioned, the cat would take off in a sprint to the fridge for food as if he could never be caught. He soon took a fancy to the giant white box that contained hundreds of meals worth of food on a plate.
+
+He loved the combination of crunchy, salty, savory, and salty foods, and always seemed to snack on one of the three. I guess it was impossible not to.
+
+Despite the poor food quality, he liked and appreciated every bite. So when I told him that I was going to do something at work, he told me that he'd come along to watch the filming of one episode of television that I was working on, and would watch his food while I watched his food. It was an odd coincidence, especially considering he was eating in front of the cameras, so I figured he would probably also get to eat his food while you came along.
+
+Then, the other day while we were making our lunch, instead of looking at his food as we normally did, he looked up from the plate and opened his mouth.
+
+"Ah!" he said. "I have one with cheese in it."
+
+I didn't hold my breath, but I knew he was biting down on a piece of cheesecake while we were talking and that was the end of our lunch. He even ate some of the cheese on the other pieces of cheesecake while he chewed. He was like that kind of cat.
+
+I mean, he's not a little puppy who likes to sit there and watch videos, but he would be watching most anything on YouTube, and very often would get to watch as others ate it -- usually the ones with the most food.
+
+Sometimes, if I didn't change the channel, he would be just as upset as I was over some of the videos I was watching that weren't that good, which are almost always the best ones because the cat just didn't understand how silly they were being. Sometimes he'd turn their lives upside down by making them watch videos he never watched and talking in their ears, much as he did much of their video.
+
+Another morning, the cat seemed downright bored when I watched clips on the television of some of the worst offenders. But he caught onto what it was like to be a human and quickly went from being bored to
+================================================================================
+"Who are you?" asked the mouse. "I'm a mouse," was the response.
+======================================== SAMPLE 1 ========================================
+ "So where are you from?"
+
+"I'm from somewhere in Europe," said the rabbit.
+
+"I'm from South America," said the cat. They continued in this line of questioning, moving from one set of questions to another, slowly and methodically. It seems for most of us, asking the same questions to the same people is merely embarrassing, like asking if someone's religious beliefs or their political preferences came from God, not doing it out of any interest in the person's motivations.
+
+Lately my interest in "getting to know someone" hasn't been very active, although I've always considered myself pretty interesting and intriguing, as well. At 37 years old, I'm one of the oldest and most sociable people in the world. That's so much more interesting — but it also implies, somehow, that I'm not very good at interacting — that this is a disadvantage, and that it's the one thing that's prevented me from becoming a true, professional (and yes, friendly) personal acquaintance with just about anyone I've met.
+
+Like it or not, I'm more interested in the world than I am in being the most interesting person in it. Because I don't live in this world myself, but in an imaginary self, a "life-world," I don't feel like I can approach a conversation (or a person) with any amount of precision and specificity. So I tend to avoid talking to anyone at all.
+
+My social anxiety is most pronounced, of course, when attempting to bring individuals closer together. It's more comfortable to avoid talking than it is to talk. You can imagine how this can actually change how you feel about people, and therefore about yourself, when you simply don't have anything in common with those people and don't want to have anything in communication with them.
+
+Part of all of this is probably just a hangover from growing up. But I was raised by people who told me that love was a problem, not an opportunity. And so I've tended to think of people's motives as quite mysterious and difficult to trace. So if I have a conversation with the same person and they'll tell me later on that they're the most successful teacher they've ever had or the best friend of the person I've just become, I think it's my job to try to discover the secret of their success and happiness and then, after getting it, to try to understand it, so that I can somehow, in some way, influence
+======================================== SAMPLE 2 ========================================
+
+
+"Oh, you are?"<|endoftext|>The White House has taken several big steps toward lifting America's drug sentencing laws, including moving to implement the reforms in President Trump's inaugural address as well as a memorandum issued by Attorney General Jeff Sessions to ease mandatory minimums that are being imposed by more than half of federal drug courts and, now, state prison systems.
+
+This is the president's first major action on marijuana policy, and given how difficult it is for some pro-pot policy wonks to understand the complexities of the issue, some in his conservative base might assume that the action is yet to come.
+
+Many people need to take some time to get their head around this policy change, however. Many of the policies mentioned — including what's been described as the "good" ones, but also the ones that offend no one, such as relaxing the disparity between crack and powdered cocaine sentencing — have a powerful effect on the way people who are charged with drug offenses live their lives. More importantly, though, they can cause even the most sensible people to err if they think they can live without them. As Washington Times columnist Eugene Robinson put it in his recent column, one in many ways "reward[s] people for making bad decisions."
+
+[A white House counselor said federal minimum sentence for marijuana an insult.]
+
+Here are eight of the top 10 things you may not know about how the White House is really acting on marijuana policy.
+
+1. Sessions wants to reverse the Obama-era "War on Drugs"
+
+It's impossible to properly explain why Sessions' recent op-ed in the Wall Street Journal said the "war on drugs has failed." So instead, let's just describe it.
+
+The Obama administration's Drug Czar had made a very public and political point, before Donald Trump took office, about the drug epidemic as a civil rights issue — not a national security issue. However, then-Attorney General Eric Holder announced a change in policy in January 2016 with a memorandum to drug courts that appeared to undercut the principle of targeted prosecutions by giving judges discretion to deny sentences for low-level marijuana use, including possession. Holder then reversed the memo and a number of federal drug courts refused to meet with a Justice Department-selected group of states that had taken federal funding, but not with these defendants who were still in prison for violating state laws on marijuana. It was called the "Don't Ask, Don't Tell" policy for a reason: the policy has ended.
+
+There
+================================================================================
+Air is always around us. Moving air is called wind. When wind blows, it carries energy.
+======================================== SAMPLE 1 ========================================
+
+
+So, what would happen if you just got rid of the wind? This is certainly a beautiful idea, one that is worth a crack at. (I'll have a post of my own on this topic in the coming weeks.)
+
+If we're looking to find ways of moving energy out of power plants out of the atmosphere — either by running them entirely on electricity or by transforming nuclear or renewable energy into electric power — we could use the sun to store the energy.
+
+The solar energy we generate in Spain is stored, and used at night to generate electricity, in places like Barajas, a central town in the south-west region of the country. This system consists of a wind turbine, which drives an inverter that converts the extra electricity generated by the rotors (the wings) into electricity.
+
+The turbines' weight boosts their efficiency, and each generates as much power as it consumes. What makes the Barajas system even better is that once activated it makes a regular rotation to the right and feeds power once an hour directly into the grid.
+
+The idea isn't bad. Wind is a lot bigger than wind energy, so it would make sense to store energy in its stead. Indeed, the first "batteries" — the machines that move the ground — used the principle of moving air to store energy.
+
+As things stand, solar power just sits there. One solution would be to compress air with a turbine. The only problem is: compress air is really hard. In 2011, when the University of Reading in the UK got at least 10 tons of air and brought it to near-freezing, it measured 1.6 psi, making it one of the stiffest compressors ever.
+
+Another approach is to make what's called thermal energy storage. This is, basically, storing power before it reaches the grid. A few years ago, researchers at Oxford University led by Michael Oppenheimer tried a similar technique. Their system uses a gas generator to split steam, which it then spits into a hot chamber. This steam then rises through a water heater to the atmosphere, where it is heated at near-freezing conditions and then condensed, making a jet of gas. This process makes a bit of warm, gas-rich water vapor, which is stored within the gas jet. The system eventually pulls in water to reduce its temperature to around minus 37 degrees Celsius — more than enough to store the electricity.
+
+So, no wind turbine for me. I still
+======================================== SAMPLE 2 ========================================
+ When you look to see what is blowing, that is a wind meter, that means an air meter.
+
+What's with the arrow marks? Isn't it enough to take the length of the horizontal shaft and calculate out the radius of the arrow? That is, isn't the distance to both sides of the arrow the same as the horizontal shaft?
+
+No, to understand circles, you have to know how the length of shaft goes from the top of the circle to all the way down in the circle.
+
+Here is a diagram. Here are the measurements.
+
+If you want to learn about a circle, here is a circle measurement for a yard, not a yard-and-a-half (a yard, not a mile).
+
+I don't have a circle, so I can see the arrow marks easily. Do you have one? Just mark it. But note the circles!
+
+That's a circle. Let's see what a circle looks like in the sky.
+
+What's inside a circle?
+
+Everything. That's what we call a circle. We can measure everything inside a circle.
+
+Imagine that most of the circle we had used was gone. If we could only know what was still inside. If only the two surfaces of the circle looked like the rest of the circle that we have (but not the circles we had used)?
+
+What happens to any part of our circle?
+
+Now what do we know that says is what is inside our circle?
+
+That's right, here is the answer, from the same map that had shown our circle on the map.
+
+A circle is a line connecting a point on a plane.
+
+A circle is a line connecting points on a circle and two other points on the circle.
+
+A circle is a line connecting two points on a circle.
+
+What is this? That's my circle! Your and mine are also circles, and they are connected by a line. So all our circles are connected by a circle, by a line.
+
+How do we know it remains a circle? How can we know that there remains a circle after being cut away after being sliced into six quarters and the air inside is gone?
+
+We know that the line that connects the points on the circle goes all the way around—from the point on the circle that is always in the middle to the point where it intersects any of the other lines.
+
+What I drew isn't going
+================================================================================
+My name is Simo. I have four friends. Their names are Zizo, Lele, Sisa and Ayanda.
+======================================== SAMPLE 1 ========================================
+ Sisa and Ayanda are my sisters. Their names are Nania and Karina. They are the ones who were with me in Tromsø when I was in tears coming to the office. When I came to know about what I have been through I asked everyone in my family to come. They went home too. Sisa and Ayanda will come to Oslo – to tell me that we are not alone. We are going to leave. We are all going to leave the country because it did not have a police department there because it feared for its own safety. The first of us to leave is Lele, the oldest.
+
+Sisu's sister, Karina, is the one who contacted me the day she heard news. She wrote in Sisu when our Facebook messages began to fall silent the night before: "Hi, I've been in contact with Simo and I know what he's been through and I'm worried that things are not going to be easy for him. I think there should be a police force or even a special force to protect women in Norway, but it looks like it no longer exists. For a lot of us, there is no longer a sense of belonging. We don't want women in one or two cities but a community of women and men from all countries who want to protect our rights. It's sad that women in Norway have no protection even though we are just half of one percent and it doesn't come from the government. We need better protection now. We need protection at home."
+
+Like all great writers, Karina is deeply passionate about women and Norwegian politics. She began writing about Norway two decades ago in a paper she and her friend, then head of the local left-wing student newspaper, Sivare Oslo, called "The Internationalist." It would be eight years before she discovered the online version of her work that would bear her name.
+
+Her work has been translated into Spanish by other leftists in Spain and in 2009, under the title "My Oslo is at Home." She's also been quoted in several international journals including The New York Times. Her sister Karina has been interviewed over 10 times for major media outlets and books have been written by her. And in February she is going to become Europe's first speaker for the Organisation of Norwegian Women.
+
+But the one place she does not belong is on her own ground. She and her remaining comrades are in Norway fighting for change, because their rights are violated and because freedom of expression needs public
+======================================== SAMPLE 2 ========================================
+ If you want to find out information about my friends, you have to ask them."
+
+"And you can't choose your friends?"
+
+"All of them belong to this town, and I have to make the connection between these two concepts. After that, I have to look up their faces while reading the book."
+
+"I already told you about your homework."
+
+Then he asked the group for the results, and they began to work.
+
+Then, because his head was spinning, he heard the voice of a teacher at a nearby table:
+
+"Simo, which one of you have found a suitable student?"
+
+He turned to his friend Ayanda with a blank expression, and then started to ask the others about themselves.
+
+[Previous Chapter] [Table of Contents] [Next Chapter]<|endoftext|>With so much going on in gaming, that's always a big ask. It's especially telling that the folks running most of this stuff have never actually spent an hour trying to set something up in a game system. For me, the most interesting question is whether or not you should bother with all this work.
+
+GOG.com is a very strange place to start. Since joining this week (one of my first online-only purchases), I've spent a lot of time looking at everything here, and I think I have a pretty good idea on how to run my game on there. When I tell people the first thing that always comes to my mind when they hear that name, though, is how my game is going to be packaged: GOG.com.
+
+"No, no, a CD-key," I will tell them.
+
+"Huh?" "It's not a CD-key, it's a code for the game on GOG.com."
+
+"But that's just the way digital distribution works!"
+
+Well, no. "Why would I need one of those when I can get digital copies for free?"
+
+Good question.
+
+Many people know that GOG.com gives you access to a huge library of old games on a pre-configured day to day schedule based on your credit card. Game titles are available on GOG's site at any time (even when you're just browsing), and if you buy or read any of the downloadable stuff, you also get access to those same games if you opt-in to the "Saints Row GOG Membership" (after all, that's where the
+================================================================================
+======================================== SAMPLE 1 ========================================
+
+
+But Ghumbru, a 2-year-old female who weighs only about 40 pounds, didn't come home, the family says.
+
+The animal was discovered dead in the water Sunday, near the U-shaped pool in the parking lot of a strip mall in suburban New Castle. Neighbors did not see her and were not taking a chance searching.
+
+BBRRRAAP-Ghum-Ghum came to Earth from Earth, and then settled in Delaware. She was born Aug. 20, 1982, the first of three offspring Ghumbru gave birth to to support her family. She was named at birth, GBRRRAAP-Ghum-Ghum, after her birth name. Ghumbru was a very sensitive baby.
+
+"She knew it was an accident," Bob and Michelle Ghumbru told ABC News late Thursday, talking from their home in the coastal community of Mount Airy. "But there was just nothing you could do about it."
+
+Ghumbru was not the first animal to die in a swimming accident near the popular pool or near other children, BBRRRAAP-Ghum-Ghum's family said.
+
+In late June, 16-year-old Olivia Zirkel, a resident of St. Albans, New Jersey, drowned during a vacation in the New Castle Country Club. The Jersey Shore Aquarium in St. Albans issued the following statement after the drowning death of a puppy to the news media.
+
+"We are sad to announce that the Florida Fish and Wildlife Conservation Commission removed this dog to our care the day of her killing," the statement said. "We have now taken immediate steps to protect any future pups from similar tragedies. We will take all steps possible to ensure they are brought safely to a new home."
+
+On July 7 last year, 10-year-old Jackie Jo Greene drowned while swimming for the first time. She was riding on a four-foot shark inflatable. Greene apparently lost her balance and the inflatable inflated, drowning her.
+
+On May 28 in Southampton County, Massachusetts, 9-year-old Matthew Campbell was swimming in the Little Hockney River. Campbell died when the rubber flotation device malfunctioned and the girl went under the water.
+
+But BBRRRAAP-Ghum-Ghum's mother said that the swimmer was going solo without her companion. "She swims like
+======================================== SAMPLE 2 ========================================
+ "There's not much chance for that."
+
+By then it was near four in the morning. Still calm, she took a deep breath. That wasn't it, her father said, it was her next objective. "She has to go to bed."
+
+Ghum-Ghum felt the sun dipping behind the mountains as she took her seat in the boat, but she did anything but relax. For days and days she dragged herself around the lake shore, to make her best effort at the long swim. She just got tired and exhausted, her mother said. At one point she stopped a few kilometers off the shore, thinking she could slip from the boat on purpose, then she made the mistake of turning around to look at the water again. In the end, the plan to go for a swim had not succeeded. Still, it was a good way to rest after a long, hard day.
+
+Five hours later Ghum-Ghum was in her cabin. I needed a break. I wanted to sleep, so she did. She stayed up the whole night reading, talking and looking out the window. Nobody knows what she watched, but I know she kept reading and I still have her journal, pages of which have either made their way on to my desk or just rested in a drawer somewhere.
+
+***
+
+I am very lucky to have watched my daughter for 18 years. She isn't just great at talking but also at reading. She is a world-class reader. Her friends know it. Dad and mom just call her Amy. My daughters are the best members of any family. They are like siblings, and not just because Mom is three months younger than me. They know how to make each other laugh. They know the difference between life and death.
+
+For four years we also had Amy swim for us on four separate occasions. We're very lucky we got a good family. My husband, Kevin, and I, four grown adults, love swimming. My daughter is very athletic, and I have known about this for years.
+
+A senior swimmer, Amy is the strongest swimmer in our family. When we meet new people for the boat to practice for competitions, all three of them are in the water. We will go out into the lake to run or jump in front of the boats that try to do the laps. We'll let them yell at us what they think we should do.
+
+But don't ask them about Amy the swimmer. That's what
+================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
